@@ -1,9 +1,9 @@
 /*!
  * Andel Note App v1.0.0
- * Author: Mel Michael <Email: mel.michael@andela.co>
  */
 
- /* Custom Style*/
+/********* Custom Style *******/
+
 body {
 	background-color: #ccc;
 	margin-top: 30px;
@@ -13,7 +13,7 @@ body {
 	height: 100%;
 	background-color: #ccc;
 }
-.main-wrap{
+.main-wrap {
 	height: 600px;
 }
 .andel-static {
@@ -34,7 +34,7 @@ body {
 	-moz-border-radius-topright: 10px;
 	-webkit-border-top-right-radius: 10px;
 }
-.logo{
+.logo {
 	padding: 20px;
 }
 .app-name {
@@ -44,7 +44,7 @@ body {
 	margin: 0;
 }
 
-.overlay{
+.overlay {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -53,7 +53,7 @@ body {
 	background: rgba(0, 0, 0, 0.8);
 	z-index: 999;
 }
-.newForm{
+.newForm {
 	width: 470px;
 	/*height: 480px;*/
 	position: relative;
